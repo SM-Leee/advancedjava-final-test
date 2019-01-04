@@ -18,7 +18,6 @@ public class LoginMain {
 		
 		System.out.println("비밀번호를 입력하시오 : ");
 		String password = scanner.nextLine();
-		//joinUsers.get(1).getId();
 		/*
 		 *  로그인 처리 부분을 완성 합니다.
 		 */
