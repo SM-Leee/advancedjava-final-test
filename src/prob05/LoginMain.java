@@ -21,6 +21,7 @@ public class LoginMain {
 		/*
 		 *  로그인 처리 부분을 완성 합니다.
 		 */
+		
 		User user = new User(id, password);
 		try {
 			login(joinUsers, user);
