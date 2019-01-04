@@ -37,4 +37,5 @@ public class CalcApp {
 		}
 		System.out.println(answer);
 	}
+	
 }
